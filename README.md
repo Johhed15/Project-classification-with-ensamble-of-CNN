@@ -1,6 +1,6 @@
 # This repository contains a project on sport classification, creating an ensemble model from 3 different transefer learned CNN-models. 
 
-## This repository contains a fruit classification problem solved with a CNN model. It was developed as a final project for a deep learning course at Umeå University. Please note that while the code and results pertain to the final project, the comments and text were originally created for another dataset.
+## It was developed as a final project for a deep learning course at Umeå University. Please note that while the code and results pertain to the final project, the comments and text were originally created for another dataset.
 
 The code is written in pythonon on kaggle!
 
