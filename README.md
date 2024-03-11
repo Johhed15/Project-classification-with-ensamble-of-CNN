@@ -2,7 +2,7 @@
 
 ## It was developed as a final project for a deep learning course at Umeå University. Please note that while the code and results pertain to the final project, the comments and text were originally created for another dataset.
 
-The code is written in pythonon on kaggle!
+The code is written in python on kaggle!
 
 Comments are made in swedish as i did this in my bachelor.
 
